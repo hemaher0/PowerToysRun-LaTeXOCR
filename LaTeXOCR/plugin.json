@@ -1,0 +1,14 @@
+{
+	"ID": "9cded42dc3c64e46b305be1db5da1261",
+	"ActionKeyword": "latex",
+	"Disabled": false,
+	"IsGlobal": false,
+	"Name": "LaTeXOCR",
+	"Author": "",
+	"Version": "1.0.0",
+	"Language": "csharp",
+	"Website": "",
+	"ExecuteFileName": "Community.PowerToys.Run.Plugin.LaTeXOCR.dll",
+	"IcoPathDark": "Images\\LaTeXOCR.dark.png",
+	"IcoPathLight": "Images\\LaTeXOCR.light.png"
+}
