@@ -1,0 +1,14 @@
+{
+	"ID": "9cded42d-c3c6-4e46-b305-be1db5da1261",
+	"ActionKeyword": "latex",
+	"Disabled": false,
+	"IsGlobal": false,
+	"Name": "LaTeX-OCR",
+	"Author": "",
+	"Version": "1.0.0",
+	"Language": "csharp",
+	"Website": "",
+	"ExecuteFileName": "Community.PowerToys.Run.Plugin.LaTeX_OCR.dll",
+	"IcoPathDark": "Images\\LaTeX-OCR.dark.png",
+	"IcoPathLight": "Images\\LaTeX-OCR.light.png"
+}
