@@ -22,7 +22,7 @@ foreach ($arch in $archs) {
 		"$releasePath/$assembly.deps.json",
 		"$releasePath/$assembly.dll",
 		"$releasePath/plugin.json",
-		"$releasePath/Images"
+		"$releasePath/Images",
 	        "$releasePath/python"
 	)
 	Copy-Item $items "$tempDir" -Recurse -Force

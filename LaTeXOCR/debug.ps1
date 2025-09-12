@@ -16,8 +16,8 @@ sudo powershell {
 		"Community.PowerToys.Run.Plugin.$safeProjectName.deps.json",
 		"Community.PowerToys.Run.Plugin.$safeProjectName.dll",
 		'plugin.json',
-		'Images'
-	        'python'
+		'Images',
+        'python'
 	)
 
 	Set-Location $debug

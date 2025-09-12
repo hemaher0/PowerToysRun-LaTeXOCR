@@ -4,10 +4,10 @@
 	"Disabled": false,
 	"IsGlobal": false,
 	"Name": "LaTeXOCR",
-	"Author": "",
+	"Author": "hemaher0",
 	"Version": "1.0.0",
 	"Language": "csharp",
-	"Website": "",
+	"Website": "https://github.com/hemaher0/PowerToysRun-LaTeXOCR",
 	"ExecuteFileName": "Community.PowerToys.Run.Plugin.LaTeXOCR.dll",
 	"IcoPathDark": "Images\\LaTeXOCR.dark.png",
 	"IcoPathLight": "Images\\LaTeXOCR.light.png"
