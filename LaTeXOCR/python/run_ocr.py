@@ -1,12 +1,14 @@
 import sys
 import os
 import warnings
+
+os.environ['NO_ALBUMENTATIONS_UPDATE'] = '1'
+warnings.filterwarnings("ignore", category=UserWarning)
+
 from PIL import ImageGrab
 from pix2tex.cli import LatexOCR
 from munch import Munch
 
-
-warnings.filterwarnings("ignore", category=UserWarning)
 
 def main():
     if len(sys.argv) < 2:
